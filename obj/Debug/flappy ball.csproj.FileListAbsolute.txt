@@ -1,0 +1,163 @@
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\bin\Debug\flappy ball.exe.config
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\bin\Debug\flappy ball.exe
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\bin\Debug\flappy ball.pdb
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy_ball.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy_ball.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy ball.exe
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy ball.pdb
+c:\users\user\documents\visual studio 2013\Projects\flappy ball\flappy ball\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\bin\Debug\flappy ball.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy ball.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy ball.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\bin\Debug\flappy ball.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\bin\Debug\flappy ball.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy_ball.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\flappy ball - 複製\flappy ball\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\flappy ball\bin\Debug\flappy ball.exe.config
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy ball.exe
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy ball.pdb
+C:\Users\user\Downloads\flappy ball\bin\Debug\flappy ball.exe
+C:\Users\user\Downloads\flappy ball\bin\Debug\flappy ball.pdb
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy_ball.Form1.resources
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\user\Downloads\flappy ball\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\bin\Debug\flappy ball.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy ball.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy ball.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\bin\Debug\flappy ball.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\bin\Debug\flappy ball.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form3.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form4.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form5.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\5 月 25日  flappy ball\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Snoopy\Downloads\bin\Debug\flappy ball.exe.config
+C:\Users\Snoopy\Downloads\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\Snoopy\Downloads\obj\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\obj\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form1.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form2.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form3.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form4.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form5.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\Snoopy\Downloads\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\Snoopy\Downloads\bin\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\bin\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\obj\Debug\flappy_ball.waterform.resources
+C:\Users\Snoopy\Downloads\最新修訂版\bin\Debug\flappy ball.exe.config
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\最新修訂版\bin\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\最新修訂版\bin\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\最新修訂版\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\最新修訂版\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form1.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form2.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form3.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form4.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form5.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.waterform.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.waterrank.resources
+C:\Users\Snoopy\Downloads\最新修訂版\obj\Debug\flappy_ball.waterinput.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\bin\Debug\flappy ball.exe.config
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy ball.exe
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy ball.pdb
+C:\Users\Ben\Desktop\Final bird\最新修訂版\bin\Debug\flappy ball.exe
+C:\Users\Ben\Desktop\Final bird\最新修訂版\bin\Debug\flappy ball.pdb
+C:\Users\Ben\Desktop\Final bird\最新修訂版\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ben\Desktop\Final bird\最新修訂版\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form1.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form2.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form3.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form4.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form5.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.waterform.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.waterinput.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.waterrank.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_input.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_rank.resources
+C:\Users\Ben\Desktop\Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_form.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.exe.config
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.exe
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.pdb
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.exe
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.pdb
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form1.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form2.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form3.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form4.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form5.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_input.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_rank.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_form.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterform.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterinput.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterrank.resources
+C:\Users\Ben\Desktop\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csproj.GenerateResource.Cache
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.exe.config
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csproj.ResolveComReference.cache
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.exe
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\bin\Debug\flappy ball.pdb
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csprojResolveAssemblyReference.cache
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form1.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form2.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form3.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form4.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form5.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Form6.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_input.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_rank.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.outer_space_form.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.Properties.Resources.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterform.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterinput.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy_ball.waterrank.resources
+C:\Users\Snoopy\Downloads\6 月20號 Final bird\最新修訂版\obj\Debug\flappy ball.csproj.GenerateResource.Cache
